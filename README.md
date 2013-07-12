@@ -3,7 +3,7 @@ CodeIgniter Internationalization Utility
 
 Description
 -----------
-Once upon a time, I built a consumer-web type application on top of PHP/CodeIgniter that needed to be multi-lingual. I wrote this script to assist in taking manageable spreadsheets of translations, and convert them into CodeIgniter specific language files for use in the application.
+Once upon a time, I built a consumer-web type application on top of PHP/CodeIgniter that needed to be multi-lingual. I wrote this script to assist in taking manageable spreadsheets of translations, and convert them into CodeIgniter specific language files for use in the application. This script will take this table (https://docs.google.com/spreadsheet/ccc?key=0AqftDBmFCH7BdDZYQnNnQUVQU1g5c0NKXzQ1bkJ1OGc&usp=sharing) of keys & translations, and convert it into the less manageable codeigniter translation files meant for the 'lang' folder in your project directory. (output dir contains examples)
 
 Examples in use:
 ----------------
@@ -26,6 +26,19 @@ Usage:
 This will create an 'output' folder in this same directory. Contained will be sub-folders, one for each language column in your spreadsheet. In the case of our example, this means english, german, and japanese. 
 <br><br>
 Inside each of these folders are individual language files. 
+
+<br><br>
+Load the language files from you controller with
+http://ellislab.com/codeigniter/user-guide/libraries/language.html
+<pre>
+$this->lang->load('filename', 'language');
+</pre>
+
+And use them from your views with the CI language helper
+http://ellislab.com/codeigniter/user-guide/helpers/language_helper.html
+<pre>
+<?= lang('language_key'); ?>
+</pre>
 
 Requirements:
 -------------
