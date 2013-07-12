@@ -1,0 +1,33 @@
+<?php 
+
+$lang["ad-description"]		= "ClubbingOwl ist eine Facebook App die es dir und deinen Freunden leicht macht auf die Gaestelisten der besten Clubs zu kommen! Fuer einen unvergesslichen Abend koennt ihr natuerlich auch einen Tisch buchen!";
+$lang["ad-vc_team"]		= "Das ClubbingOwl Team";
+$lang["ad-tos"]		= "Nutzungsbedingungen";
+$lang["ad-friends"]		= "Freunde";
+$lang["ad-friends_desc"]		= "<%=friend_name%> ist ClubbingOwl beigetreten!";
+$lang["ad-promoters_home_title_city"]		= "Club Promoter in  <%=location%>";
+$lang["ad-promoters_home_desc_city"]		= "ClubbingOwl Club Promoter, Gaestelisten und Events in <%=location%>";
+$lang["ad-promoters_home_title"]		= "Club Promoter";
+$lang["ad-promoters_home_desc"]		= "ClubbingOwl Club Promoter, Gaestelisten und Events";
+$lang["ad-promoters_home_profile_desc"]		= "<%=promoter_u_full_name%>'s ClubbingOwl Promoter Profil, Gaestelisten/Tische und Events";
+$lang["ad-promoters_all_guest_lists_desc"]		= "<%=promoter_u_full_name%>'s ClubbingOwl promoter Gästelisten und Tische";
+$lang["ad-promoters_all_guest_lists_title"]		= "<%=promoter_u_full_name%> Gaestelisten und Tische";
+$lang["ad-promoters_spec_gl_desc"]		= "<%=promoter_u_full_name%>'s Gaesteliste <%=pgla_name%> @ <%=tv_name%>";
+$lang["ad-promoters_spec_gl_title"]		= "<%=promoter_u_full_name%>'s Gaesteliste <%=pgla_name%> @ <%=tv_name%>";
+$lang["ad-venues_home_title_city"]		= "Clubs in <%=location%>";
+$lang["ad-venues_home_desc_city"]		= "ClubbingOwl Veranstaltungen , Nachtclubs, Lounges und Bars in <%=location%>";
+$lang["ad-venues_home_title"]		= "Veranstaltungen";
+$lang["ad-venues_home_desc"]		= "ClubbingOwl Veranstaltungen , Nachtclubs, Lounges und Bars";
+$lang["ad-venues_home_profile_desc"]		= "<%=venue_name%> Veranstaltungsprofil";
+$lang["ad-venues_all_guest_lists_desc"]		= "<%=venue_name%> in <%=location%> Gaestelisten und Reservationen fuer Tische";
+$lang["ad-venues_all_guest_lists_title"]		= "<%=venue_name%> in <%=location%> Gaestelisten und Reservationen fuer Tische";
+$lang["ad-venues_spec_gl_desc"]		= "<%=tgla_name%>'s Gaesteliste @ <%=venue_name%>";
+$lang["ad-venues_spec_gl_title"]		= "<%=tgla_name%>'s Gaesteliste @ <%=venue_name%>";
+$lang["ad-vc_user_profile"]		= "<%=user_name%>  ClubbingOwl Profil";
+$lang["ad-no_search_results"]		= "Keine Suchergebnisse  fuer \"<%=term%>\"";
+$lang["ad-loading"]		= "";
+$lang["ad-request_response_promoter"]		= "";
+$lang["ad-request_response_team"]		= "";
+$lang["ad-request_response_resp_msg"]		= "";
+$lang["ad-request_response_close"]		= "";
+$lang["ad-invite_friends"]		= "";

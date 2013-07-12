@@ -1,0 +1,33 @@
+<?php 
+
+$lang["ad-description"]		= "";
+$lang["ad-vc_team"]		= "";
+$lang["ad-tos"]		= "";
+$lang["ad-friends"]		= "";
+$lang["ad-friends_desc"]		= "";
+$lang["ad-promoters_home_title_city"]		= "";
+$lang["ad-promoters_home_desc_city"]		= "";
+$lang["ad-promoters_home_title"]		= "";
+$lang["ad-promoters_home_desc"]		= "";
+$lang["ad-promoters_home_profile_desc"]		= "";
+$lang["ad-promoters_all_guest_lists_desc"]		= "";
+$lang["ad-promoters_all_guest_lists_title"]		= "";
+$lang["ad-promoters_spec_gl_desc"]		= "";
+$lang["ad-promoters_spec_gl_title"]		= "";
+$lang["ad-venues_home_title_city"]		= "";
+$lang["ad-venues_home_desc_city"]		= "";
+$lang["ad-venues_home_title"]		= "";
+$lang["ad-venues_home_desc"]		= "";
+$lang["ad-venues_home_profile_desc"]		= "";
+$lang["ad-venues_all_guest_lists_desc"]		= "";
+$lang["ad-venues_all_guest_lists_title"]		= "";
+$lang["ad-venues_spec_gl_desc"]		= "";
+$lang["ad-venues_spec_gl_title"]		= "";
+$lang["ad-vc_user_profile"]		= "";
+$lang["ad-no_search_results"]		= "";
+$lang["ad-loading"]		= "";
+$lang["ad-request_response_promoter"]		= "";
+$lang["ad-request_response_team"]		= "";
+$lang["ad-request_response_resp_msg"]		= "";
+$lang["ad-request_response_close"]		= "";
+$lang["ad-invite_friends"]		= "";
