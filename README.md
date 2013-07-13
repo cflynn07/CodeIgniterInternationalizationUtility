@@ -1,6 +1,12 @@
 CodeIgniter Internationalization Utility
 ========================================
 
+Create and manage translations in a spreadsheet:
+![alt tag](http://oi40.tinypic.com/2645qis.jpg)
+And convert them to usable CodeIgniter language files with this script:
+![alt tag](http://oi42.tinypic.com/jhtpqa.jpg)
+
+
 Description
 -----------
 Once upon a time, I built a consumer-web type application on top of PHP/CodeIgniter that needed to be multi-lingual. I wrote this script to assist in taking manageable spreadsheets of translations, and convert them into CodeIgniter specific language files for use in the application. This script will take this table (https://docs.google.com/spreadsheet/ccc?key=0AqftDBmFCH7BdDZYQnNnQUVQU1g5c0NKXzQ1bkJ1OGc&usp=sharing) of keys & translations, and convert it into the less manageable codeigniter translation files meant for the 'lang' folder in your project directory. (output dir contains examples)
