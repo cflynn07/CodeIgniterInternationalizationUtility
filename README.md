@@ -3,7 +3,7 @@ CodeIgniter Internationalization Utility
 
 Create and manage translations in a spreadsheet:
 ![alt tag](http://oi40.tinypic.com/2645qis.jpg)
-And convert them to usable CodeIgniter language files with this script:
+And convert them to usable CodeIgniter language files:
 ![alt tag](http://oi42.tinypic.com/jhtpqa.jpg)
 
 
